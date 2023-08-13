@@ -1,4 +1,4 @@
-#Authentication Using JWR and Express JS with MongoDB 
+#Authentication Using JWT and Express JS with MongoDB 
 The Following project is a  Backend server which uses Express.JS and Database as MongoDB and is used to authenticate and autharise a user
 It has the following routes
 ###1.Signup

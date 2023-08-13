@@ -14,5 +14,5 @@ This is a Protected route which can be accessed only by the authenticateed user.
 on the JWT secret key generated 
 
 <h1>For any Queries </h1>
-Email me : rakeshratnam21@gmail.com
+Email me : rakeshratnam21@gmail.com <br/>
 LinkedIn : https://www.linkedin.com/in/rakeesshhhh/ 

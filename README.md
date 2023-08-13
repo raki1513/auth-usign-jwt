@@ -13,6 +13,6 @@ and the token is passed to a middleware where the token gets autheraized and pro
 This is a Protected route which can be accessed only by the authenticateed user. This uses http.get request and gets all the appropriate data of the user based 
 on the JWT secret key generated 
 
-<h1>For any Queries 
-#Email me : rakeshratnam21@gmail.com
-#LinkedIn : https://www.linkedin.com/in/rakeesshhhh/ </h1>
+<h1>For any Queries </h1>
+Email me : rakeshratnam21@gmail.com
+LinkedIn : https://www.linkedin.com/in/rakeesshhhh/ 

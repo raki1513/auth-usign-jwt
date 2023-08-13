@@ -1,5 +1,5 @@
 #Authentication Using JWT and Express JS with MongoDB 
-The Following project is a  Backend server which uses Express.JS and Database as MongoDB and is used to authenticate and autharise a user
+The Following project is a  Backend server which uses Express.JS and Database as MongoDB and is used to authenticate and authorise a users
 It has the following routes
 ###1.Signup
 This is a basic route through which the user can register himself in the database and the server makes sure that the username and email are unique 

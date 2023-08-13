@@ -1,4 +1,4 @@
-<h1>Hello Everyone 👋. Thisis a basic Express back-end Server which Authenticates the User and Registers a User using JSONwebtoken</h1>
+<h1>Hello Everyone 👋. This is a basic Express back-end Server which Authenticates the User and Registers a User using JSONwebtoken</h1>
 <h2>Authentication Using JWT and Express JS with MongoDB </h2>
 The Following project is a  Backend server which uses Express.JS and Database as MongoDB and is used to authenticate and authorise a users
 <br/><br/>It has the following routes
